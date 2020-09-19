@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ApplyUpgradeDemo/.vs/ApplyUpgradeDemo/v16
+/ApplyUpgradeDemo/bin/Debug
+/ApplyUpgradeDemo/obj/Debug
+/ApplyUpgradeDemo/packages
+/.vs
+/ApplyUpgradeDemo/obj/Release
+/ApplyUpgradeDemo/ApplyUpgradeDemo.csproj.user
